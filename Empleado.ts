@@ -1,4 +1,4 @@
-import { Persona } from "./persona";
+import { Persona } from "./Persona";
 
 export class Empleado extends Persona{
   

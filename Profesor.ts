@@ -1,4 +1,4 @@
-import { Empleado } from "./empleado";
+import { Empleado } from "./Empleado";
 
 export class Profesor extends Empleado {
 

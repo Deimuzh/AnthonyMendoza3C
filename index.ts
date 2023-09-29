@@ -1,8 +1,8 @@
-import { Empleado } from "./empleado";
-import { Estudiante } from "./estudiante";
-import { Persona } from "./persona";
+import { Empleado } from "./Empleado";
+import { Estudiante } from "./Estudiante";
+import { Persona } from "./Persona";
 import { PersonalDeServicio } from "./PersonalDeServicio"
-import { Profesor } from "./profesor";
+import { Profesor } from "./Profesor";
 
 const persona = new Persona("Alex", "Mercer", 123456789, "soltero");
 const estudiante = new Estudiante("Alex", "Mercer", 123456789, "soltero");
